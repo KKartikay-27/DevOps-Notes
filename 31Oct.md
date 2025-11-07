@@ -1,5 +1,7 @@
 # 31st October
 
+[Notes](https://scaler-production-new.s3.ap-southeast-1.amazonaws.com/attachments/attachments/000/368/649/original/003AWSAndLinuxIntroduction.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIDNNIRGHAQUQRWYA%2F20251103%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20251103T074810Z&X-Amz-Expires=561600&X-Amz-SignedHeaders=host&X-Amz-Signature=a4855f13c7801e59fb758b459283d558d26670db0b7fc38d0ddc763d840a03da)
+
 ## CI Revision
 Fork repo -> Download Code -> Linting -> Build -> Unit Test -> SCA -> SAST -> Dockerize (Create docker images) -> Dynamic Testing -> Push image into Artifact repository 
 

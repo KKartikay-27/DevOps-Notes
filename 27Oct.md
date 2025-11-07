@@ -1,5 +1,7 @@
 # 27th October
 
+[Notes](https://scaler-production-new.s3.ap-southeast-1.amazonaws.com/attachments/attachments/000/367/643/original/MicroservicesIntroduction.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIDNNIRGHAQUQRWYA%2F20251103%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20251103T074953Z&X-Amz-Expires=561600&X-Amz-SignedHeaders=host&X-Amz-Signature=684150c78bdc87dfeba58d39b92372564ef493d994c1cd295406a4fb4ad3acd2)
+
 ## Course Structure
 
 - Microservices Architecture

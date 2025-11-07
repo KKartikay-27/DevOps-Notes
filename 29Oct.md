@@ -1,5 +1,7 @@
 # 28th October
 
+[Notes](https://scaler-production-new.s3.ap-southeast-1.amazonaws.com/attachments/attachments/000/368/412/original/DevOpsIntroduction.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIDNNIRGHAQUQRWYA%2F20251103%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20251103T074928Z&X-Amz-Expires=561600&X-Amz-SignedHeaders=host&X-Amz-Signature=26a55fc9c4744ca96aaf2744f4ea062aaab6856d2a6eab905060f1c7d44349fc)
+
 ## Revision
 
 Virtual Machine from AWS is called EC2 instance.
