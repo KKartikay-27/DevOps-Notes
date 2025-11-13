@@ -1,5 +1,7 @@
 # 10th November
 
+[Notes](https://scaler-production-new.s3.ap-southeast-1.amazonaws.com/attachments/attachments/000/370/465/original/DockerIntroAndImages.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIDNNIRGHAQUQRWYA%2F20251112%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20251112T075021Z&X-Amz-Expires=561600&X-Amz-SignedHeaders=host&X-Amz-Signature=f59ca6d834f188b48a8afafbc2410c307630b64995c18f356ee8103b9b953f48)
+
 ### Docker always relies on the kernel of the host operating system, regardless of which OS you’re using.
 
 Here’s the key point:
