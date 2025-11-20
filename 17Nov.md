@@ -1,5 +1,7 @@
 # 17th November
 
+[Notes](https://scaler-production-new.s3.ap-southeast-1.amazonaws.com/attachments/attachments/000/371/692/original/DockerVolume.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIDNNIRGHAQUQRWYA%2F20251119%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20251119T075642Z&X-Amz-Expires=561600&X-Amz-SignedHeaders=host&X-Amz-Signature=d874d2d4be69dccd958e833bf6c81b1dabf60f53975262af9f1f38f68b6fcd21)
+
 ## Docker Volume
 
 Allows to persist the data even if the container is restarted or destroyed.
